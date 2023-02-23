@@ -1,0 +1,21 @@
+Network design has two headquarters which are located in District 7 and Thu Duc. Design and configuration with complete method security and redundancy functions.
+
+
+VTP
+HSRP
+Spanning-tree
+DHCP relay
+Port-channel
+EIGRP
+OSPFv3
+QoS
+NAT-PAT
+
+port security
+DHCP snooping
+Access-list
+Firewall
+VPN+IpSec
+AAA - Radius Server
+NTP-Syslog
+Wireless Lan Controller
